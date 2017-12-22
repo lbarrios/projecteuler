@@ -6,11 +6,11 @@
 * [Problem 3](3)
 * [Problem 4](4)
 * [Problem 5](5)
-
-## ToDo:
 * [Problem 6](6)
 * [Problem 7](7)
 * [Problem 8](8)
+
+## ToDo:
 * [Problem 9](9)
 * [Problem 10](10)
 * [Problem 11](11)
